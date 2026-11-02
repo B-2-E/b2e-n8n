@@ -1,5 +1,5 @@
 # Partir de l'image officielle de n8n
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:2.45.7
 
 # Changer d'utilisateur pour passer en 'root' afin d'avoir les permissions
 USER root
